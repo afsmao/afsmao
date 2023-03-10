@@ -11,3 +11,5 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with codes
 - 💬 Ask me about Salesforce
 - 📫 How to reach me: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afsmao)](https://github.com/afsmao/github-readme-stats)
